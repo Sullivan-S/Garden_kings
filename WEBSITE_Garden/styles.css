@@ -112,3 +112,33 @@ header{
     font-family:'Bodoni',sans-serif;
     text-align:center;
 }
+
+#pictures{
+   padding-top:30px;
+   padding-bottom:20px;
+    background-color:black;
+    text-align: center;
+}
+
+#gallery-title{
+    background-color:#73ccfdc9;
+    margin-top:none;
+    margin-bottom:none;
+    padding-top:20px;
+    padding-bottom:10px;
+}
+
+#gallery-title h2{
+    font-size: 40px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center;
+}
+
+#gallery-title h1{
+    font-size: 80px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center;
+}
+
