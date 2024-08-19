@@ -1,7 +1,7 @@
 h1{
     font-size: 120px;
     color: #ffffff;
-    font-family:'Garamond',sans-serif;
+    font-family:"Bebas Neue",sans-serif;
     text-align:center;
 }
 
@@ -138,7 +138,7 @@ header{
 #gallery-title h1{
     font-size: 80px;
     color: #ffffff;
-    font-family:'Garamond',sans-serif;
+    font-family:"Bebas Neue",sans-serif;
     text-align:center;
 }
 
@@ -199,3 +199,87 @@ header{
     font-weight: 400;
     font-style: normal;
 }
+
+#services-button{
+    background-color: #1da3027d;
+    text-align: center;
+    padding-bottom:80px;
+    padding-top: 40px;
+}
+
+#services-button a{
+    color: #ffffff;
+    font-size: 19px;
+    margin: 30px 5px;
+    padding: 15px 15px;
+    border: 2px solid #ffffff;
+    min-width: 150px;
+}
+
+#services-button a:hover{
+    background-color:darkblue;
+}
+
+
+#about-us-intro{
+    background: black url(images/weeding.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 30px;
+    padding-top: 250px;
+}
+
+
+#about-us-text{
+    background-color:#1da3027d;
+    margin-top:none;
+    margin-bottom:none;
+    padding-top:20px;
+    padding-bottom:10px;
+    text-align: center;
+}
+
+#about-us-text h1{
+    font-size: 60px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center;
+}
+
+#about-us-text p{
+    font-size: 25px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center;
+}
+
+#book-now{
+    background-color:#1da3027d;
+    margin-top:none;
+    margin-bottom:none;
+    padding-top:20px;
+    padding-bottom:50px;
+    text-align: center;
+}
+
+#book-now h1{
+    font-size: 60px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center;
+}
+
+#book-now h2{
+    font-size: 35px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center;
+}
+
+#book-now div{
+    font-size: 20px;
+    color: #ffffff;
+    font-family:'Garamond',sans-serif;
+    text-align:center; 
+}
+   
